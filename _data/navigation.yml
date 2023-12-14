@@ -14,19 +14,8 @@
   url: "/services/"
   side: left
 
-- title: "Projects"
-  url: "/projects/"
-  side: left
 
-- title: "Team"
-  url: "/team/"
-  side: left
-
-- title: "Timeline"
-  url: "/timeline/"
-  side: left
-
-- title: "Templates and Headers"
+- title: "Templates"
   url: "/design/"
   side: left
   dropdown:
@@ -50,6 +39,11 @@
     url: "/design/gallery/"
   - title: "Portfolio"
     url: "/design/portfolio/"
+
+- title: "Header Styles"
+  url: "/headers/"
+  side: left
+  dropdown:
   - title: "Header with Full-Width-Image"
     url: "/design/header-full-width-image/"
   - title: "Header with Image and Pattern"
@@ -64,7 +58,6 @@
     url: "/design/no-header/"
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
-
 - title: Documentation
   url: "/documentation/"
   side: left
@@ -73,6 +66,11 @@
     url: "/changelog/"
   - title: "Roadmap"
     url: "/roadmap/"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
 
