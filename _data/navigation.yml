@@ -6,7 +6,27 @@
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "About"
+  url: "/intro/"
+  side: left
+
+- title: "Services"
+  url: "/services/"
+  side: left
+
+- title: "Projects"
+  url: "/projects/"
+  side: left
+
+- title: "Team"
+  url: "/team/"
+  side: left
+
+- title: "Timeline"
+  url: "/timeline/"
+  side: left
+
+- title: "Templates and Headers"
   url: "/design/"
   side: left
   dropdown:
@@ -30,11 +50,6 @@
     url: "/design/gallery/"
   - title: "Portfolio"
     url: "/design/portfolio/"
-
-- title: "Header Styles"
-  url: "/headers/"
-  side: left
-  dropdown:
   - title: "Header with Full-Width-Image"
     url: "/design/header-full-width-image/"
   - title: "Header with Image and Pattern"
@@ -58,11 +73,6 @@
     url: "/changelog/"
   - title: "Roadmap"
     url: "/roadmap/"
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
 
