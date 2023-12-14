@@ -7,7 +7,7 @@
 #   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
 #                                                 /____/
 #
-# Title of your website
+# Title of your website, breaks if you change title, slogan, or description. No idea why
 title: 'Feeling Responsive'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
@@ -42,7 +42,7 @@ urlimg: 'https://tetsuto-k.github.io/feelresponsive.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "tau_logo.png"
+logo: "logo.png"
 
 # Plugins
 plugins:
