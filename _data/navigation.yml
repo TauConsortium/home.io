@@ -22,7 +22,8 @@
     url: "/blog/archive/"
 
 - title: Blank
-  url: 
+  url: "/Blank/"
+  side: left
 
 - title: "Templates"
   url: "/design/"
