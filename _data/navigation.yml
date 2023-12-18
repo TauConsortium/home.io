@@ -14,6 +14,15 @@
   url: "/services/"
   side: left
 
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: Blank
+  url: 
 
 - title: "Templates"
   url: "/design/"
@@ -66,13 +75,6 @@
     url: "/changelog/"
   - title: "Roadmap"
     url: "/roadmap/"
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
