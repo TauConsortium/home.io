@@ -42,7 +42,7 @@ sitemap:
 @import "foundation-components/grid";
 @import "09_elements.scss";
 
-{% if site.asciidoctor-enabled %}
+{% if site.asciidoctor-enabled == true %}
 @import "10_asciidoc.scss";
 {% endif %}
 
