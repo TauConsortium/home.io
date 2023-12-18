@@ -9,6 +9,6 @@ header:
     image_fullwidth: contact-map-image.png
 ---
 
-{% include contact_form.html %}
+{% include contact-form.html %}
 
 If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
