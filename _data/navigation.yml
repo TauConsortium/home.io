@@ -6,12 +6,16 @@
   url: "/timeline/"
   side: left
 
-- title: "About"
+- title: About
   url: "/intro/"
   side: left
 
-- title: "Services"
+- title: Services
   url: "/services/"
+  side: left
+
+- title: Projects
+  url: "/projects/"
   side: left
 
 - title: Blog
@@ -52,7 +56,7 @@
   - title: "Comments"
     url: "/design/comments"
 
-- title: "Header Styles"
+- title: "Header"
   url: "/headers/"
   side: left
   dropdown:
@@ -71,7 +75,7 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
     
-- title: Documentation
+- title: Document
   url: "/documentation/"
   side: left
   dropdown:
