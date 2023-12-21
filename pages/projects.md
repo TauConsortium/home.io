@@ -17,12 +17,12 @@ permalink           : "/projects/"
 </head>
 <div class="image-container">
    <img src="../images/gallery-example-1.jpg" alt="Main Image" class="main-image">
-   <img src="../images/gallery-example-2.jpg" alt="Hover Image" class="hover-image" onclick="showPopup('../pages/popup_content.html')">
+   <img src="../images/gallery-example-2.jpg" alt="Hover Image" class="hover-image" onclick="showPopup('../popup_content.html')">
 </div>
 
 <div class="image-container">
    <img src="../images/gallery-example-3.jpg" alt="Main Image" class="main-image">
-   <img src="../images/gallery-example-4.jpg" alt="Hover Image" class="hover-image" onclick="showPopup('../pages/popup/popup_content2.html')">
+   <img src="../images/gallery-example-4.jpg" alt="Hover Image" class="hover-image" onclick="showPopup('../popup/popup_content2.html')">
 </div>
 
 <!-- Popup content container -->
