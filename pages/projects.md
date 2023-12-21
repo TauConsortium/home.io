@@ -25,4 +25,4 @@ permalink           : "/projects/"
 </div>
 
 <!-- Link to the external JavaScript file -->
-<script src="../assets/js/script.js"></script>
+<script src="../assets/js/popupscript.js"></script>
