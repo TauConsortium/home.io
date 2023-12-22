@@ -26,24 +26,48 @@
     opacity: 0.8;
 }
 
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    background: rgba(0, 0, 0); /* Semi-transparent black overlay */
+    z-index: 2; /* Place the overlay above the background and below the popup */
+    visibility: hidden;
+}
+
+.overlay.active {
+    opacity: 0.6;
+    transition: opacity 0.5s ease;
+    z-index: 2;
+}
+
 /* Style for the popup */
 .popup {
     opacity: 0;
-    transition: opacity 0.5s ease, transform 0.5s ease;
     position: fixed;
     top: 0;
     left: 50%;
-    height: 80vh;
-    transform: translateX(-50%);
+    height: 90vh;
+    transform: translateX(-50%) translateY(3vh);
+    transition: opacity 0.5s ease, transform 0.5s ease;
     padding: 20px;
     background: #fff;
     border: 1px solid #ccc;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    z-index: 1;
+    z-index: 3;
+    overflow: auto;
+    visibility: hidden;
 }
 
 .popup.active {
-    transform: translateX(-50%) translateY(70px);
+    height: 90vh;
+    transform: translateX(-50%) translateY(3vh);
+    transition: opacity 0.5s ease, transform 0.5s ease;
     opacity: 1;
+    z-index: 3;
     overflow: auto;
 }

@@ -25,6 +25,7 @@ permalink           : "/projects/"
    <img src="../images/gallery-example-4.jpg" alt="Hover Image" class="hover-image" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/popup/popup_content2.html')">
 </div>
 
+<div id="overlayBackground" class ="overlay"> </div>
 <!-- Popup content container -->
 <div id="popupContainer" class="popup">
    <!-- Content will be loaded here -->
