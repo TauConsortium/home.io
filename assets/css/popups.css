@@ -71,3 +71,7 @@
     z-index: 3;
     overflow: auto;
 }
+
+.text-uppercase {
+    text-transform:uppercase !important
+}
