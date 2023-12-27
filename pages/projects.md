@@ -1,5 +1,5 @@
 ---
-layout              : page
+layout              : page-fullwidth
 show_meta           : false
 title               : "Projects"
 subheadline         : "Tau Consortium bioinformatic projects"
@@ -16,13 +16,8 @@ permalink           : "/projects/"
     <link rel="stylesheet" href="../assets/css/popups.css">
 </head>
 <div class="image-container">
-   <img src="../images/gallery-example-1.jpg" alt="Main Image" class="main-image">
+   <img src="../images/portfolio/acostauribe-2022.jpg" alt="Main Image" class="main-image">
    <img src="../images/gallery-example-2.jpg" alt="Hover Image" class="hover-image" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/popup/popup_content.html')">
-</div>
-
-<div class="image-container">
-   <img src="../images/gallery-example-3.jpg" alt="Main Image" class="main-image">
-   <img src="../images/gallery-example-4.jpg" alt="Hover Image" class="hover-image" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/popup/popup_content2.html')">
 </div>
 
 <div id="overlayBackground" class ="overlay"> </div>
