@@ -1,3 +1,7 @@
+body {
+    hyphens: none;
+}
+
 /* Style for the container */
 .image-container {
     position: relative;
