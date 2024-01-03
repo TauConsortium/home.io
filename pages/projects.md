@@ -17,6 +17,7 @@ permalink           : "/projects/"
 </head>
 <div class="image-container">
    <img src="../images/portfolio/acostauribe-2022.jpg" alt="Main Image" class="main-image">
+   <div><i class="fa fa-plus fa-3x">::before</i></div>
    <img src="../images/gallery-example-2.jpg" alt="Hover Image" class="hover-image" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/projects/popup_content.html')">
 </div>
 
