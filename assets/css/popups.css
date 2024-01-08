@@ -1,5 +1,5 @@
 body {
-    white-space: normal;
+    word-wrap: break-word;
     text-align: center;
 }
 /* Style for the container */
