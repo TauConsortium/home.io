@@ -22,7 +22,7 @@ body {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background-color: cyan;
+    background-color: rbg(0, 255, 255, 0.5);
     transition: opacity 0.5s ease; /* Adjust the transition duration and timing function as needed */
 }
 
