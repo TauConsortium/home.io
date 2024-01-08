@@ -15,6 +15,7 @@ permalink           : "/projects/"
     <title>Image Popup</title>
     <link rel="stylesheet" href="../assets/css/popups.css">
 </head>
+
 <div class="image-container">
    <img src="{{ site.url }}{{ site.baseurl }}/images/portfolio/acostauribe-2022.jpg" alt="Main Image" class="main-image">
    <button alt="Hover Image" class="hover-shape" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/projects/popup_content.html')"></button>

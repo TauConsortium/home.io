@@ -10,7 +10,7 @@
 	"projectTemplate:image": {
 		"prefix": ["pro", "temp"],
 		"body": [
-			"<div class='image-container'>\n	<!-- Insert image link after /images/ and insert the html page the project detail is located after /projects/-->\n	<img src='{{ site.url }}{{ site.baseurl }}/images/InsertImage' alt='Main Image' class='main-image'>\n	<!--Replace the apostrophe before 'showPopup' and '<div>' at the end with quotationmarks-->\n	<div alt='Hover Image' class='hover-shape' onclick='showPopup('{{ site.url }}{{ site.baseurl }}/projects/InsertHTML')'></div>\n</div>"
+			"<div class='image-container'>\n	<!-- Insert image link after /images/ and insert the html page the project detail is located after /projects/-->\n	<img src='{{ site.url }}{{ site.baseurl }}/images/InsertImage' alt='Main Image' class='main-image'>\n	<!--Replace the apostrophe before 'showPopup' and '<button>' at the end with quotationmarks-->\n	<button alt='Hover Image' class='hover-shape' onclick='showPopup('{{ site.url }}{{ site.baseurl }}/projects/InsertHTML')'></button>\n</div>"
 		],
 		"description": "Log"
 	}
