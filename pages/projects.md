@@ -17,12 +17,12 @@ permalink           : "/projects/"
 </head>
 <div class="image-container">
    <img src="{{ site.url }}{{ site.baseurl }}/images/portfolio/acostauribe-2022.jpg" alt="Main Image" class="main-image">
-   <div alt="Hover Image" class="hover-shape" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/projects/popup_content.html')">+</div>
+   <div alt="Hover Image" class="hover-shape" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/projects/popup_content.html')"></div>
 </div>
 
 <div class="image-container">
    <img src="{{ site.url }}{{ site.baseurl }}/images/gallery-example-8.jpg" alt="Main Image" class="main-image">
-   <div alt="Hover Image" class="hover-shape" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/projects/popup_content2.html')">+</div>
+   <div alt="Hover Image" class="hover-shape" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/projects/popup_content2.html')"></div>
 </div>
 
 <div id="overlayBackground" class ="overlay"> </div>
