@@ -20,6 +20,11 @@ permalink           : "/projects/"
    <div alt="Hover Image" class="hover-shape" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/projects/popup_content.html')">+</div>
 </div>
 
+<div class="image-container">
+   <img src="../images/gallery-example-8.jpg" alt="Main Image" class="main-image">
+   <div alt="Hover Image" class="hover-shape" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/projects/popup_content2.html')">+</div>
+</div>
+
 <div id="overlayBackground" class ="overlay"> </div>
 <!-- Popup content container -->
 <div id="popupContainer" class="popup">
