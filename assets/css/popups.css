@@ -1,5 +1,5 @@
 body {
-    hyphens: none;
+    white-space: nowrap;
     text-align: center;
 }
 /* Style for the container */
