@@ -11,17 +11,21 @@ header:
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Image Popup</title>
-    <link rel="stylesheet" href="../assets/css/popups.css"> 
+    <link rel="stylesheet" href="../assets/css/popups.css">
+    <link rel="stylesheet" href="../assets/css/people.css">
     <script src="https://kit.fontawesome.com/5d7ac12b49.js" crossorigin="anonymous"></script>
 </head>
 
 *Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
 
+<div class="circle-container">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/portfolio/TANGL_2.jpg" alt="Your Image">
+</div>
 
 ## Features
 
 * [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly <i class="icon-calendar"></i>
+* 100% GitHub Pages friendly 
 * Easy editable navigation, footer and social media links
 * Language Ready – just translate one file.
 * Lots of possibilities to customize it to your needs
