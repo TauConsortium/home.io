@@ -3,10 +3,10 @@
   class: icon-github
   title: Code und mehr...
 
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+- name: LinkedIn
+  url: https://www.linkedin.com/in/acosta-uribe/
+  class: icon-linkedin
+  title: "linkedin.com/in/acosta-uribe/"
 
 - name: Twitter
   url: http://twitter.com/phlow
