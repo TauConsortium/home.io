@@ -13,7 +13,7 @@ permalink           : "/projects/"
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Image Popup</title>
-    <link rel="stylesheet" href="../assets/css/popups.css">
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/popups.css">
 </head>
 
 <div class="image-container">
@@ -33,4 +33,4 @@ permalink           : "/projects/"
 </div>
 
 <!-- Link to the external JavaScript file -->
-<script src="../assets/js/popupscript.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/popupscript.js"></script>

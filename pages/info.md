@@ -11,8 +11,8 @@ header:
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Image Popup</title>
-    <link rel="stylesheet" href="../assets/css/popups.css">
-    <link rel="stylesheet" href="../assets/css/people.css">
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/popups.css">
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/people.css">
     <script src="https://kit.fontawesome.com/5d7ac12b49.js" crossorigin="anonymous"></script>
 </head>
 
