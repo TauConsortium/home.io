@@ -1,13 +1,17 @@
 ---
-layout: page
+layout: page-fillwidth
 title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+subheadline: "Our Teams"
+teaser: "Our amazing team is built by a transdisciplinary group of scientists based at the University of California, San Francisco and University of California, Santa Barbara."
 permalink: "/intro/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
+<head>
+    <script src="https://kit.fontawesome.com/5d7ac12b49.js" crossorigin="anonymous"></script>
+</head>
+
+
 
 *Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
 
@@ -15,7 +19,7 @@ header:
 ## Features
 
 * [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
+* 100% GitHub Pages friendly <i class="fa-brands fa-github"></i>
 * Easy editable navigation, footer and social media links
 * Language Ready – just translate one file.
 * Lots of possibilities to customize it to your needs
