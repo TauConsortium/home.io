@@ -9,15 +9,6 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Popup</title>
-    <link rel="stylesheet" href="../assets/css/popups.css"> 
-    <script src="https://kit.fontawesome.com/5d7ac12b49.js" crossorigin="anonymous"></script>
-</head>
-
-
 *Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
 
 
