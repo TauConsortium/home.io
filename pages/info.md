@@ -17,9 +17,16 @@ header:
 </head>
 
 *Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+<div class="team-member">
+    <div class="circle-container">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/team/Jennifer.jpg" alt="Jennifer S. Yokoyama, PhD.">
+    </div>
+</div>
 
-<div class="circle-container">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/portfolio/TANGL_2.jpg" alt="Your Image">
+<div class="team-member>
+    <div class="circle-container">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/team/Juliana.jpg" alt="Juliana Acosta-Uribe, MD.PhD.">
+    </div>
 </div>
 
 ## Features
