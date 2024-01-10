@@ -1,8 +1,3 @@
-body {
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    text-align: center;
-}
 /* Style for the container */
 .image-container {
     position: relative;
