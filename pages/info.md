@@ -23,7 +23,7 @@ header:
     </div>
 </div>
 
-<div class="team-member>
+<div class="team-member">
     <div class="circle-container">
     <img src="{{ site.url }}{{ site.baseurl }}/images/team/Juliana.jpg" alt="Juliana Acosta-Uribe, MD.PhD.">
     </div>
