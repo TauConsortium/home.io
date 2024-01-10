@@ -21,7 +21,7 @@ header:
 ## Features
 
 * [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly <i class="fa-brands fa-github"></i>
+* 100% GitHub Pages friendly <i class="icon-calendar"></i>
 * Easy editable navigation, footer and social media links
 * Language Ready – just translate one file.
 * Lots of possibilities to customize it to your needs
