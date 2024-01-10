@@ -7,10 +7,6 @@ permalink: "/intro/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-<head>
-    <script src="https://kit.fontawesome.com/5d7ac12b49.js" crossorigin="anonymous"></script>
-</head>
-
 
 
 *Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
