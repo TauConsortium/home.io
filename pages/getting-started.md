@@ -14,7 +14,7 @@ permalink           : "/timeline/"
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/customimg.css">
 </head>
 
-<div class="timeline">
+<div class="timeline1">
     <div class="circle-container">
             <img class="t60" src="{{ site.urlimg }}/timeline/time01.jpg" alt="Climbing a mountain">
     </div>
@@ -23,7 +23,7 @@ permalink           : "/timeline/"
     </div>
 </div>
 
-<div class="timeline">
+<div class="timeline1">
     <div class="circle-container">
          <img class="t60" src="{{ site.urlimg }}/timeline/time02.jpg" alt="Anchor">
     </div>
@@ -33,7 +33,7 @@ permalink           : "/timeline/"
 </div>
 
 
-<div class="timeline">
+<div class="timeline1">
     <div class="circle-container">
          <img class="t60" src="{{ site.urlimg }}/timeline/time03.jpg" alt="Fish">
     </div>
