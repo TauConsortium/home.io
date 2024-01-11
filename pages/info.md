@@ -22,12 +22,16 @@ header:
     <div class="circle-container">
     <img src="{{ site.url }}{{ site.baseurl }}/images/team/Jennifer.jpg" alt="Jennifer S. Yokoyama, PhD.">
     </div>
+    <p>Jennifer S. Yokoyama, PhD.</p>
+    <p>Co-Principal Investigator</p>
 </div>
 
 <div class="team-member medium-4 columns">
     <div class="circle-container">
     <img src="{{ site.url }}{{ site.baseurl }}/images/team/Juliana.jpg" alt="Juliana Acosta-Uribe, MD.PhD.">
     </div>
+    <p>Juliana Acosta-Uribe, MD.PhD.</p>
+    <p>Co-Principal Investigator and Data Liaison</p>
 </div>
 
 ## Features
