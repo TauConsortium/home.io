@@ -25,8 +25,8 @@
 .timeline1 {
   width: 70%;
   height: fit-content;
-  display:inline-block;
-  position: absolute;
+  display: inline-block;
+  position: relative;
 }
 
 .timeline-img {
