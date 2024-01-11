@@ -28,7 +28,6 @@
   left: 0%;
   display: inline-flex;
   position: absolute;
-  word-wrap: normal;
 }
 
 .timeline-right {
@@ -37,7 +36,6 @@
   right: 0%;
   display: inline-flex;
   position: absolute;
-  word-wrap: normal;
 }
 
 .timeline-img {
@@ -51,8 +49,10 @@
 
 .text-left {
   text-align: left;
+  word-wrap: normal;
 }
 .text-right {
   text-align: right;
+  word-wrap: normal;
 }
   
