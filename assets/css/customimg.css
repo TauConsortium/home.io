@@ -23,16 +23,17 @@
 }
 
 .timeline-left {
-  width: 100%;
+  width: 70%;
   height: fit-content;
-  left: ;
+  left: 0%;
   display: inline-flex;
   position: relative;
 }
 
 .timeline-right {
-  width: 100%;
+  width: 70%;
   height: fit-content;
+  right: 0%;
   display: inline-flex;
   position: relative;
 }
@@ -43,6 +44,7 @@
   top: 50%;
   left: 50%;
   position: absolute;
+  display: inline-block;
 }
 
 .text-left {
