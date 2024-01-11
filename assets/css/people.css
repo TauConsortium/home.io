@@ -9,7 +9,6 @@
 .team-member {
   width: 33.33%;
   height: fit-content;
-  display: block;
   display: flex;
   text-align: center;
   position: relative;
