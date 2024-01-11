@@ -6,6 +6,8 @@
 }
   
 .team-member {
+  width: 33.33%;
+  height: fit-content;
   display: block;
   text-align: center;
   position: relative;
