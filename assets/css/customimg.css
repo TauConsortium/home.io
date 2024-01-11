@@ -1,6 +1,7 @@
 .circle-container {
   width: 250px; /* Adjust the size as needed */
   height: 250px;
+  left: 50%
   border-radius: 50%;
   overflow: hidden;
   border: 5px solid rgb(21, 142, 194)
