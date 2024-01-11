@@ -16,11 +16,12 @@ permalink           : "/timeline/"
 
 <div class="timeline1 left-0">
     <div class="circle-container">
-            <img clas="timeline-img" src="{{ site.urlimg }}timeline/time01.jpg" alt="Climbing a mountain">
+         <img clas="timeline-img" src="{{ site.urlimg }}timeline/time01.jpg" alt="Climbing a mountain">
+         <div class="text-right">
+            <p>Generate a Github webpage for the bioinformatics training and code sharing into the data collaboration initiative, Generate the first repository: Quality control pipelines for human genetic sequencing data (microarray, exome and genome sequencing) Work with the Kosik lab and the Yokoyama lab to harmonize their QC practice</p>
+         </div>
     </div>
-    <div class="text-right">
-      <p>Generate a Github webpage for the bioinformatics training and code sharing into the data collaboration initiative, Generate the first repository: Quality control pipelines for human genetic sequencing data (microarray, exome and genome sequencing) Work with the Kosik lab and the Yokoyama lab to harmonize their QC practice</p>
-    </div>
+   
 </div>
 
 <div class="timeline1 left-100">
