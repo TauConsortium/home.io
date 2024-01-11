@@ -1,13 +1,13 @@
 .circle-container {
-    width: 100px; /* Adjust the size as needed */
-    height: 100px;
-    border-radius: 50%;
-    overflow: hidden;
-  }
+  width: 100px; /* Adjust the size as needed */
+  height: 100px;
+  border-radius: 50%;
+  overflow: hidden;
+}
   
-  img {
-    width: 100%; /* Ensures the image takes the full container width */
-    height: auto;
-    display: block;
-  }
+.team-member {
+  width: 100%; /* Ensures the image takes the full container width */
+  height: auto;
+  display: block;
+}
   
