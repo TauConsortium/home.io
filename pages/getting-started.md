@@ -9,11 +9,11 @@ header:
 permalink           : "/timeline/"
 ---
 
-<img class="t60" src="{{ site.urlimg }}img/timeline/time01.jpg" style="max-width: 10%, height: auto;" alt="">
+<img class="t60" src="{{ site.urlimg }}/timeline/time01.jpg" style="max-width: 10%, height: auto;" alt="">
 1. Generate a Github webpage for the bioinformatics training and code sharing into the data collaboration initiative, Generate the first repository: Quality control pipelines for human genetic sequencing data (microarray, exome and genome sequencing) Work with the Kosik lab and the Yokoyama lab to harmonize their QC practice
-<img class="t60" src="{{ site.urlimg }}img/timeline/time02.jpg" style="max-width: 10%, height: auto;" alt="">
+<img class="t60" src="{{ site.urlimg }}/timeline/time02.jpg" style="max-width: 10%, height: auto;" alt="">
 2. Incorporate R Shiny apps for the visualization of datasets. Collaborate with the stem cell groups investigators to add the computational code they have developed into the Bioinformatics hub
-<img class="t60" src="{{ site.urlimg }}img/timeline/time03.jpg" style="max-width: 10%, height: auto;" alt="">
+<img class="t60" src="{{ site.urlimg }}/timeline/time03.jpg" style="max-width: 10%, height: auto;" alt="">
 3. Create new repositories that allow the users to explore different types of analyses of the available datasetsGenerate teaching modules that allow new users and early-stage investigators to learn about specific bioinformatics analyses
 4. Open `_sass/_01_settings_colors.scss` and adjust the the colors to your taste.
 5. Customize your navigation and open `_data/navigation.yml`.
