@@ -20,7 +20,9 @@ header:
 
 <div class="team-member">
     <div class="circle-container">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/team/Jennifer.jpg" alt="Jennifer S. Yokoyama, PhD.">
+        <div class="team-img">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/team/Jennifer.jpg" alt="Jennifer S. Yokoyama, PhD.">
+        </div>
     </div>
     <p>Jennifer S. Yokoyama, PhD.</p>
     <p>Co-Principal Investigator</p>
@@ -28,7 +30,9 @@ header:
 
 <div class="team-member">
     <div class="circle-container">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/team/Juliana.jpg" alt="Juliana Acosta-Uribe, MD.PhD.">
+        <div class="team-img">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/team/Juliana.jpg" alt="Juliana Acosta-Uribe, MD.PhD.">
+        </div>
     </div>
     <p>Juliana Acosta-Uribe, MD.PhD.</p>
     <p>Co-Principal Investigator and Data Liaison</p>
