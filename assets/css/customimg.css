@@ -28,8 +28,8 @@
   width: 70%;
   right: 0%;
   height: fit-content;
-  display: inline-block;
   position: absolute;
+  display: inline-block;
 }
 
 .timeline-img {
@@ -44,8 +44,40 @@
 .text-left {
   text-align: left;
   word-wrap: normal;
+  display: inline-block;
+  margin-left: 10px;
 }
 .text-right {
   text-align: right;
   word-wrap: normal;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.left-0 {
+  left: 0%
+}
+
+.left-25 {
+  left: 25%
+}
+
+.left-33 {
+  left: 33%
+}
+
+.left-50 {
+  left: 50%
+}
+
+.left-67 {
+  right: 33%
+}
+
+.left-75 {
+  right: 25%
+}
+
+.left-100 {
+  right: 0%
 }
