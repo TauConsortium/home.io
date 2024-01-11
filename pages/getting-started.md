@@ -14,7 +14,7 @@ permalink           : "/timeline/"
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/customimg.css">
 </head>
 
-<div class="timeline1">
+<div class="timeline1 left-0">
    <div class="circle-container">
       <img clas="timeline-img" src="{{ site.urlimg }}timeline/time01.jpg" alt="Climbing a mountain">
    </div>
