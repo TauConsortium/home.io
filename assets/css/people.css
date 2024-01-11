@@ -6,9 +6,12 @@
 }
   
 .team-member {
-  width: 100%; /* Ensures the image takes the full container width */
-  height: auto;
   display: block;
   text-align: center;
+}
+
+.team-img {
+  width: 100%; /* Ensures the image takes the full container width */
+  height: auto;
 }
   
