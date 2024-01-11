@@ -8,6 +8,8 @@
 .team-member {
   display: block;
   text-align: center;
+  position: relative;
+  display: inline-block;
 }
 
 .team-img {
