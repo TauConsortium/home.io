@@ -21,4 +21,17 @@
   top: 50%;
   left: 50%;
 }
+
+.timeline {
+  width 100%;
+  height: fit-content;
+  display: inline-flex;
+}
+
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
   
