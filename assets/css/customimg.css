@@ -1,11 +1,11 @@
 .circle-container {
   width: 250px; /* Adjust the size as needed */
   height: 250px;
-  left: 50%;
   border-radius: 50%;
   overflow: hidden;
   border: 5px solid rgb(21, 142, 194)
 }
+
   
 .team-member {
   width: 33.33%;
@@ -22,19 +22,10 @@
   left: 50%;
 }
 
-.timeline-left {
+.timeline1 {
   width: 70%;
   height: fit-content;
-  left: 0%;
-  display: inline-flex;
-  position: absolute;
-}
-
-.timeline-right {
-  width: 70%;
-  height: fit-content;
-  right: 0%;
-  display: inline-flex;
+  display:inline-block;
   position: absolute;
 }
 
@@ -55,4 +46,31 @@
   text-align: right;
   word-wrap: normal;
 }
-  
+
+.left-0 {
+  left: 0%
+}
+
+.left-25 {
+  left: 25%
+}
+
+.left-33 {
+  left: 33%
+}
+
+.left-50 {
+  left: 50%
+}
+
+.left-67 {
+  right: 33%
+}
+
+.left-75 {
+  right: 25%
+}
+
+.left-100 {
+  right: 0%
+}
