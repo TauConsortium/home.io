@@ -1,6 +1,6 @@
 .circle-container {
-  width: 100px; /* Adjust the size as needed */
-  height: 100px;
+  width: 300px; /* Adjust the size as needed */
+  height: 300px;
   left: 50%;
   border-radius: 50%;
   overflow: hidden;
