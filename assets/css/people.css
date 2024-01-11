@@ -1,6 +1,7 @@
 .circle-container {
   width: 100px; /* Adjust the size as needed */
   height: 100px;
+  left: 50%;
   border-radius: 50%;
   overflow: hidden;
   border: 5px solid rgb(21, 142, 194)
@@ -17,6 +18,7 @@
 .team-img {
   width: 100%; /* Ensures the image takes the full container width */
   height: auto;
+  top: 50%;
   left: 50%;
 }
   
