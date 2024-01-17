@@ -25,7 +25,7 @@
 }
 
 .timeline1 {
-  width: 100%;
+  width: 70%;
   right: 0%;
   height: fit-content;
   position: relative;
@@ -37,6 +37,19 @@
   height: 100%;
   top: 50%;
   left: 50%;
+}
+
+.text-left {
+  text-align: left;
+  word-wrap: normal;
+  display: inline-block;
+  margin-left: 10px;
+}
+.text-right {
+  text-align: right;
+  word-wrap: normal;
+  display: inline-block;
+  margin-right: 10px;
 }
 
 .left-0 {
