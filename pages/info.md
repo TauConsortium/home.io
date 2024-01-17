@@ -18,16 +18,16 @@ header:
     <div class="circle-container">
         <img class="team-img" src="{{ site.url }}{{ site.baseurl }}/images/team/Jennifer.jpg" alt="Jennifer S. Yokoyama, PhD.">
     </div>
-    <p>Jennifer S. Yokoyama, PhD.</p>
-    <p>Co-Principal Investigator</p>
+    <h1>>Jennifer S. Yokoyama, PhD.</h1>
+    <h2>Co-Principal Investigator</h2>
 </div>
 
 <div class="team-member">
     <div class="circle-container">
         <img class="team-img" src="{{ site.url }}{{ site.baseurl }}/images/team/Juliana.jpg" alt="Juliana Acosta-Uribe, MD.PhD.">
     </div>
-    <p>Juliana Acosta-Uribe, MD.PhD.</p>
-    <p>Co-Principal Investigator and Data Liaison</p>
+    <h1>Juliana Acosta-Uribe, MD.PhD.</h1>
+    <h2>Co-Principal Investigator and Data Liaison</h2>
 </div>
 
 ## Features

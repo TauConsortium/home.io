@@ -29,7 +29,7 @@
   right: 0%;
   height: fit-content;
   position: relative;
-  display: flex;
+  display: grid;
   align-items: center;
 }
 
