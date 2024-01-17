@@ -1,5 +1,5 @@
 ---
-layout              : page
+layout              : page-fullwidth
 show_meta           : false
 title               : "Timeline"
 subheadline         : "Lorem ipsum timeline"
