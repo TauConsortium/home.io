@@ -2,7 +2,7 @@
 layout              : page-fullwidth
 show_meta           : false
 title               : "Timeline"
-subheadline         : "Lorem ipsum timeline"
+subheadline         : "Our plan for the Future"
 teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
    image_fullwidth  : "header_homepage_13.jpg"
