@@ -34,10 +34,11 @@
 }
 
 .timeline-img {
-  width: 100%; /* Ensures the image takes the full container width */
+  width: auto; /* Ensures the image takes the full container width */
   height: 100%;
   top: 50%;
   left: 50%;
+  margin-right: 10px;
 }
 
 .text-left {
