@@ -31,9 +31,11 @@
   position: relative;
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .timeline-img {
+  max-width: 100%;
   width: auto; /* Ensures the image takes the full container width */
   height: 100%;
   top: 50%;
