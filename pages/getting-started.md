@@ -12,6 +12,7 @@ permalink           : "/timeline/"
 <head>
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/popups.css">
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/customimg.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/assets/css/styles_feeling_responsive.css">
 </head>
 
 <div class="timeline1">
