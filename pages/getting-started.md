@@ -14,16 +14,16 @@ permalink           : "/timeline/"
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/customimg.css">
 </head>
 
-<div class="timeline1 left-0">
+<div class="timeline1">
    <div class="circle-container">
       <img class="timeline-img" src="{{ site.urlimg }}timeline/time01.jpg" alt="Climbing a mountain">
    </div>
-   <div class="text-right">
+   <div class="text-left">
       <p>Generate a Github webpage for the bioinformatics training and code sharing into the data collaboration initiative, Generate the first repository: Quality control pipelines for human genetic sequencing data (microarray, exome and genome sequencing) Work with the Kosik lab and the Yokoyama lab to harmonize their QC practice</p>
    </div>
 </div>
 
-<div class="timeline1 left-100">
+<div class="timeline1">
    <div class="circle-container">
       <img class="timeline-img" src="{{ site.urlimg }}timeline/time02.jpg" alt="Anchor">
    </div>
@@ -33,11 +33,11 @@ permalink           : "/timeline/"
 </div>
 
 
-<div class="timeline1 left-0">
+<div class="timeline1">
    <div class="circle-container">
       <img class="timeline-img" src="{{ site.urlimg }}timeline/time03.jpg" alt="Fish">
    </div>
-   <div class="text-right">
+   <div class="text-left">
       <p>Create new repositories that allow the users to explore different types of analyses of the available datasetsGenerate teaching modules that allow new users and early-stage investigators to learn about specific bioinformatics analyses</p>
    </div>
 </div>
