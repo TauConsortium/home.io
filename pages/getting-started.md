@@ -19,7 +19,7 @@ permalink           : "/timeline/"
       <img class="timeline-img" src="{{ site.urlimg }}timeline/time01.jpg" alt="Climbing a mountain">
    </div>
    <div class="text-left">
-      <p>Generate a Github webpage for the bioinformatics training and code sharing into the data collaboration initiative, Generate the first repository: Quality control pipelines for human genetic sequencing data (microarray, exome and genome sequencing) Work with the Kosik lab and the Yokoyama lab to harmonize their QC practice</p>
+      <span>Generate a Github webpage for the bioinformatics training and code sharing into the data collaboration initiative, Generate the first repository: Quality control pipelines for human genetic sequencing data (microarray, exome and genome sequencing) Work with the Kosik lab and the Yokoyama lab to harmonize their QC practice</span>
    </div>
 </div>
 
@@ -28,7 +28,7 @@ permalink           : "/timeline/"
       <img class="timeline-img" src="{{ site.urlimg }}timeline/time02.jpg" alt="Anchor">
    </div>
    <div class="text-left">
-      <p>Incorporate R Shiny apps for the visualization of datasets. Collaborate with the stem cell groups investigators to add the computational code they have developed into the Bioinformatics hub</p>
+      <span>Incorporate R Shiny apps for the visualization of datasets. Collaborate with the stem cell groups investigators to add the computational code they have developed into the Bioinformatics hub</span>
    </div>
 </div>
 
@@ -38,7 +38,7 @@ permalink           : "/timeline/"
       <img class="timeline-img" src="{{ site.urlimg }}timeline/time03.jpg" alt="Fish">
    </div>
    <div class="text-left">
-      <p>Create new repositories that allow the users to explore different types of analyses of the available datasetsGenerate teaching modules that allow new users and early-stage investigators to learn about specific bioinformatics analyses</p>
+      <span>Create new repositories that allow the users to explore different types of analyses of the available datasetsGenerate teaching modules that allow new users and early-stage investigators to learn about specific bioinformatics analyses</span>
    </div>
 </div>
 
