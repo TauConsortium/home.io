@@ -46,13 +46,13 @@
 .text-left {
   text-align: left;
   word-wrap: normal;
-  display: inline-block;
+  display: flex;
   margin-left: 10px;
 }
 .text-right {
   text-align: right;
   word-wrap: normal;
-  display: inline-block;
+  display: flex;
   margin-right: 10px;
 }
 
