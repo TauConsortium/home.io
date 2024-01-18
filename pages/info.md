@@ -12,8 +12,6 @@ header:
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/customimg.css">
 </head>
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
-
 <div class="team-member">
     <div class="circle-container">
         <img class="team-img" src="{{ site.url }}{{ site.baseurl }}/images/team/Jennifer.jpg" alt="Jennifer S. Yokoyama, PhD.">
@@ -34,7 +32,7 @@ header:
     <div class="circle-container">
         <img class="team-img" alt="Tetsuto Katsura, BA.">
     </div>
-    <h3>Tetsuto Katsura</h3>
+    <h3>Tetsuto Katsura, </h3>
     <h4>Bioinformatician</h4>
 </div>
 
