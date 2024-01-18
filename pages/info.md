@@ -18,7 +18,7 @@ header:
     <div class="circle-container">
         <img class="team-img" src="{{ site.url }}{{ site.baseurl }}/images/team/Jennifer.jpg" alt="Jennifer S. Yokoyama, PhD.">
     </div>
-    <h3>>Jennifer S. Yokoyama, PhD.</h3>
+    <h3>Jennifer S. Yokoyama, PhD.</h3>
     <h4>Co-Principal Investigator</h4>
 </div>
 
@@ -29,6 +29,15 @@ header:
     <h3>Juliana Acosta-Uribe, MD.PhD.</h3>
     <h4>Co-Principal Investigator and Data Liaison</h4>
 </div>
+
+<div class="team-member">
+    <div class="circle-container">
+        <img class="team-img" alt="Tetsuto Katsura, BA.">
+    </div>
+    <h3>Tetsuto Katsura</h3>
+    <h4>Bioinformatician</h4>
+</div>
+
 
 ## Features
 
