@@ -14,7 +14,7 @@
   height: 450px;
   display: inline-block;
   text-align: center;
-  position: fixed;
+  position: relative;
 }
 
 .team-img {
