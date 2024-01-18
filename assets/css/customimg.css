@@ -11,10 +11,10 @@
   
 .team-member {
   width: 33.33%;
-  height: 500px;
+  height: 450px;
   display: inline-block;
   text-align: center;
-  position: relative;
+  position: fixed;
 }
 
 .team-img {
