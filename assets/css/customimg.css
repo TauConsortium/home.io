@@ -25,11 +25,10 @@
 }
 
 .timeline1 {
-  width: 100%;
-  right: 0%;
+  width: 40%;
+  right: 50%;
   height: fit-content;
   position: relative;
-  display: grid;
   align-items: center;
 }
 
