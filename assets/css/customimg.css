@@ -6,7 +6,7 @@
   overflow: hidden;
   display: inline-block;
   border: 5px solid rgb(21, 142, 194);
-  align-items: flex-start;
+  vertical-align: top;
 }
 
   
