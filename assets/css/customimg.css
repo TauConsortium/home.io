@@ -12,11 +12,11 @@
 .circle-container-right {
   width: 250px; /* Adjust the size as needed */
   height: 250px;
-  left: 50%;
+  right: 0%;
   align-items: right;
   border-radius: 50%;
   overflow: hidden;
-  display: inline-block;
+  display: absolute;
   border: 5px solid rgb(21, 142, 194);
   vertical-align: top;
 }
