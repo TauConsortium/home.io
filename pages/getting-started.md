@@ -14,7 +14,7 @@ permalink           : "/timeline/"
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/customimg.css">
 </head>
 
-<div class="timeline1">
+<div class="timeline-left">
    <div class="circle-container">
       <img class="timeline-img" src="{{ site.urlimg }}timeline/time01.jpg" alt="Climbing a mountain">
    </div>
@@ -25,11 +25,11 @@ permalink           : "/timeline/"
    </div>
 </div>
 
-<div class="timeline1">
+<div class="timeline-right">
    <div class="circle-container">
       <img class="timeline-img" src="{{ site.urlimg }}timeline/time02.jpg" alt="Anchor">
    </div>
-   <div class="text-left">
+   <div class="text-right">
       <h2>2024</h2>
       <h2>Phase 2</h2>
       <p>Incorporate R Shiny apps for the visualization of datasets. Collaborate with the stem cell groups investigators to add the computational code they have developed into the Bioinformatics hub</p>
@@ -37,7 +37,7 @@ permalink           : "/timeline/"
 </div>
 
 
-<div class="timeline1">
+<div class="timeline-left">
    <div class="circle-container">
       <img class="timeline-img" src="{{ site.urlimg }}timeline/time03.jpg" alt="Fish">
    </div>

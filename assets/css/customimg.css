@@ -27,9 +27,18 @@
   left: 50%;
 }
 
-.timeline1 {
-  width: 100%;
+.timeline-right {
+  width: 50%;
   right: 0%;
+  height: fit-content;
+  position: relative;
+  display: grid;
+  align-items: center;
+}
+
+.timeline-left {
+  width: 50%;
+  left: 0%;
   height: fit-content;
   position: relative;
   display: grid;
