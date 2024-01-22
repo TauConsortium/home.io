@@ -12,7 +12,8 @@
 .circle-container-right {
   width: 250px; /* Adjust the size as needed */
   height: 250px;
-  right: 50%;
+  left: 50%;
+  align-items: right;
   border-radius: 50%;
   overflow: hidden;
   display: inline-block;
