@@ -15,7 +15,7 @@ permalink           : "/timeline/"
 </head>
 
 <div class="timeline-left">
-   <div class="circle-container">
+   <div class="circle-container-left">
       <img class="timeline-img" src="{{ site.urlimg }}timeline/time01.jpg" alt="Climbing a mountain">
    </div>
    <div class="text-left">
@@ -26,7 +26,7 @@ permalink           : "/timeline/"
 </div>
 
 <div class="timeline-right">
-   <div class="circle-container">
+   <div class="circle-container-right">
       <img class="timeline-img" src="{{ site.urlimg }}timeline/time02.jpg" alt="Anchor">
    </div>
    <div class="text-right">
@@ -38,7 +38,7 @@ permalink           : "/timeline/"
 
 
 <div class="timeline-left">
-   <div class="circle-container">
+   <div class="circle-container-left">
       <img class="timeline-img" src="{{ site.urlimg }}timeline/time03.jpg" alt="Fish">
    </div>
    <div class="text-left">
