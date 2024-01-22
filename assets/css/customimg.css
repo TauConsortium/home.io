@@ -14,7 +14,9 @@
   width: 33.33%;
   height: 450px;
   display: inline-block;
-  text-align: top;
+  text-align: center;
+  vertical-align: top;
+
   position: relative;
 }
 
