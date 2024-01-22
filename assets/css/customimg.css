@@ -1,23 +1,10 @@
-.circle-container-left {
+.circle-container {
   width: 250px; /* Adjust the size as needed */
   height: 250px;
   left: 50%;
-  align-items: left;
   border-radius: 50%;
   overflow: hidden;
   display: inline-block;
-  border: 5px solid rgb(21, 142, 194);
-  vertical-align: top;
-}
-
-.circle-container-right {
-  width: 250px; /* Adjust the size as needed */
-  height: 250px;
-  right: 50%;
-  align-items: right;
-  border-radius: 50%;
-  overflow: hidden;
-  display: absolute;
   border: 5px solid rgb(21, 142, 194);
   vertical-align: top;
 }
