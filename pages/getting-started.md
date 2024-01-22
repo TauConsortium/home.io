@@ -26,7 +26,7 @@ permalink           : "/timeline/"
 </div>
 
 <div class="timeline-right">
-   <div class="circle-container-right">
+   <div class="circle-container">
       <img class="timeline-img" src="{{ site.urlimg }}timeline/time02.jpg" alt="Anchor">
    </div>
    <div class="text-left">
