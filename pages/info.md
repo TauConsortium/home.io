@@ -14,7 +14,7 @@ header:
 
 <div class="team-member">
     <div class="circle-container">
-        <img class="team-img" src="{{ site.url }}{{ site.baseurl }}/images/team/Jennifer.jpg" alt="Jennifer S. Yokoyama, PhD.">
+        <img class="team-img" src="{{ site.urlimg }}team/Jennifer.jpg" alt="Jennifer S. Yokoyama, PhD.">
     </div>
     <h3>Jennifer S. Yokoyama, PhD.</h3>
     <h4 class="text-authors">Co-Principal Investigator</h4>
@@ -22,7 +22,7 @@ header:
 
 <div class="team-member">
     <div class="circle-container">
-        <img class="team-img" src="{{ site.url }}{{ site.baseurl }}/images/team/Juliana.jpg" alt="Juliana Acosta-Uribe, MD.PhD.">
+        <img class="team-img" src="{{ site.urlimg }}team/Juliana.jpg" alt="Juliana Acosta-Uribe, MD.PhD.">
     </div>
     <h3>Juliana Acosta-Uribe, MD.PhD.</h3>
     <h4 class="text-authors">Co-Principal Investigator and Data Liaison</h4>
@@ -34,12 +34,13 @@ header:
     </div>
     <h3>Tetsuto Katsura, </h3>
     <h4 class="text-authors">Bioinformatician</h4>
+    <div class="links-3"></div>
 </div>
 
 
 ## Features
 
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
+* [Responsive Gallery][1], [Videos][2], [Grid][3], [Typography][4],...
 * 100% GitHub Pages friendly 
 * Easy editable navigation, footer and social media links
 * Language Ready – just translate one file.
@@ -49,38 +50,10 @@ header:
 * Uses Jekyll 3.0
 * Multiple possibilities to use images in different ways
 * Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+* Play Video and Audio with [Mediaelement.js][5]
 
-
-
-## I got inspired by...
-
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
-
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+ [1]: {{ site.url }}/design/gallery/
+ [2]: {{ site.url }}/design/video/
+ [3]: {{ site.url }}/design/grid/
+ [4]: {{ site.url }}/design/typography/
+ [5]: {{ site.url }}/design/mediaelement_js/
