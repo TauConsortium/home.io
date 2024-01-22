@@ -41,7 +41,7 @@
   left: 0%;
   height: fit-content;
   position: relative;
-  display: grid;
+  display: inline-block;
   align-items: center;
 }
 
