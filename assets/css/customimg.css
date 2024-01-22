@@ -56,13 +56,13 @@
 
 .text-left {
   text-align: left;
-  word-wrap: normal;
+  word-wrap: break-word;
   display: inline-block;
   margin-left: 10px;
 }
 .text-right {
   text-align: right;
-  word-wrap: normal;
+  word-wrap: break-word;
   display: inline-block;
   margin-right: 10px;
 }
@@ -97,4 +97,8 @@
 
 .font24 {
   font-size: 24px;
+}
+
+.abstract {
+  word-wrap: break-word;
 }

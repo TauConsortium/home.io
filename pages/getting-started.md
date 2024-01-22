@@ -44,7 +44,7 @@ permalink           : "/timeline/"
    <div class="text-left">
       <p class="font24">2025</p>
       <p class="font24">Phase 3</p>
-      <p>Create new repositories that allow the users to explore different types of analyses of the available datasetsGenerate teaching modules that allow new users and early-stage investigators to learn about specific bioinformatics analyses</p>
+      <p>Create new repositories that allow the users to explore different types of analyses of the available datasets. Generate teaching modules that allow new users and early-stage investigators to learn about specific bioinformatics analyses</p>
    </div>
 </div>
 
