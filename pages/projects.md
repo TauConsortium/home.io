@@ -21,8 +21,8 @@ permalink           : "/projects/"
       <img src="{{ site.url }}{{ site.baseurl }}/images/portfolio/acostauribe-2022.jpg" alt="Main Image" class="main-image">
       <div alt="Hover Image" class="hover-shape" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/projects/popup_content.html')"></div>
    </div>
-   <h3>Neurodegeneration in Colombia</p>
-   <h4 class="text-author"><em>WGS project</em></p>
+   <h3>Neurodegeneration in Colombia</h3>
+   <h4 class="text-author"><em>WGS project</em></h4>
 </div>
 
 <div id="overlayBackground" class ="overlay" onclick="hidePopup()"></div>
