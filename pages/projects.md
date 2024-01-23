@@ -22,7 +22,7 @@ permalink           : "/projects/"
       <div alt="Hover Image" class="hover-shape" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/projects/popup_content.html')"></div>
    </div>
    <p>Neurodegeneration in Colombia</p>
-   <p><em>WGS project<em></p>
+   <p><em>WGS project</em></p>
 </div>
 
 <div id="overlayBackground" class ="overlay" onclick="hidePopup()"></div>
