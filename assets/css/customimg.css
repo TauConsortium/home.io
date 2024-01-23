@@ -54,19 +54,6 @@
   margin-right: 10px;
 }
 
-.text-left {
-  text-align: left;
-  word-wrap: break-word;
-  display: inline-block;
-  margin-left: 10px;
-}
-.text-right {
-  text-align: right;
-  word-wrap: break-word;
-  display: inline-block;
-  margin-right: 10px;
-}
-
 .left-0 {
   left: 0%
 }
@@ -93,12 +80,4 @@
 
 .left-100 {
   right: 0%
-}
-
-.font24 {
-  font-size: 24px;
-}
-
-.abstract {
-  word-wrap: break-word;
 }

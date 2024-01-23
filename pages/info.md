@@ -18,6 +18,7 @@ header:
     </div>
     <h3>Jennifer S. Yokoyama, PhD.</h3>
     <h4 class="text-authors">Co-Principal Investigator</h4>
+    <div class="links-2"></div>
 </div>
 
 <div class="team-member">
@@ -26,6 +27,7 @@ header:
     </div>
     <h3>Juliana Acosta-Uribe, MD.PhD.</h3>
     <h4 class="text-authors">Co-Principal Investigator and Data Liaison</h4>
+    <div class="links-2"></div>
 </div>
 
 <div class="team-member">
@@ -34,7 +36,7 @@ header:
     </div>
     <h3>Tetsuto Katsura, </h3>
     <h4 class="text-authors">Bioinformatician</h4>
-    <div class="links-3"></div>
+    <div class="links-2"></div>
 </div>
 
 
