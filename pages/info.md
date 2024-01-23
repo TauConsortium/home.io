@@ -17,7 +17,7 @@ header:
         <img class="team-img" src="{{ site.urlimg }}team/Jennifer.jpg" alt="Jennifer S. Yokoyama, PhD.">
     </div>
     <h3>Jennifer S. Yokoyama, PhD.</h3>
-    <h4 class="text-authors">Co-Principal Investigator</h4>
+    <h4 class="text-author">Co-Principal Investigator</h4>
     <div class="links-2"></div>
 </div>
 
@@ -26,7 +26,7 @@ header:
         <img class="team-img" src="{{ site.urlimg }}team/Juliana.jpg" alt="Juliana Acosta-Uribe, MD.PhD.">
     </div>
     <h3>Juliana Acosta-Uribe, MD.PhD.</h3>
-    <h4 class="text-authors">Co-Principal Investigator and Data Liaison</h4>
+    <h4 class="text-author">Co-Principal Investigator and Data Liaison</h4>
     <div class="links-2"></div>
 </div>
 
@@ -35,7 +35,7 @@ header:
         <img class="team-img" alt="Tetsuto Katsura, BA.">
     </div>
     <h3>Tetsuto Katsura, </h3>
-    <h4 class="text-authors">Bioinformatician</h4>
+    <h4 class="text-author">Bioinformatician</h4>
     <div class="links-2"></div>
 </div>
 
