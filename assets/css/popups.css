@@ -1,6 +1,8 @@
 /* Style for the container */
 .image-container {
     position: relative;
+    align-items: center;
+    text-align: center;
     display: inline-block;
 }
 
@@ -91,4 +93,9 @@
 
 .abstract {
     text-wrap: wrap;
+}
+
+.project-container {
+    width: 33.33%;
+    height: 300px;
 }

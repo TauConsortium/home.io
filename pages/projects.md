@@ -16,9 +16,13 @@ permalink           : "/projects/"
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/popups.css">
 </head>
 
-<div class="image-container">
-   <img src="{{ site.url }}{{ site.baseurl }}/images/portfolio/acostauribe-2022.jpg" alt="Main Image" class="main-image">
-   <div alt="Hover Image" class="hover-shape" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/projects/popup_content.html')"></div>
+<div class="project-container">
+   <div class="image-container">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/portfolio/acostauribe-2022.jpg" alt="Main Image" class="main-image">
+      <div alt="Hover Image" class="hover-shape" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/projects/popup_content.html')"></div>
+   </div>
+   <p>Neurodegeneration in Colombia</p>
+   <p><em>WGS project<em></p>
 </div>
 
 <div id="overlayBackground" class ="overlay" onclick="hidePopup()"></div>
