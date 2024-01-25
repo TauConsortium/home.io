@@ -106,6 +106,7 @@
 
 .project-container {
     background: yellow;
+
 }
 
 .text-left {
@@ -113,19 +114,20 @@
     word-wrap: break-word;
     display: inline-block;
     margin-left: 10px;
-  }
-  .text-right {
+}
+  
+.text-right {
     text-align: right;
     word-wrap: break-word;
     display: inline-block;
     margin-right: 10px;
-  }
-  
-  .font24 {
+}
+
+.font24 {
     font-size: 24px;
-  }
-  
-  .abstract {
+}
+
+.abstract {
     word-wrap: break-word;
-  }
+}
   
