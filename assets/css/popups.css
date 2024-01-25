@@ -102,6 +102,10 @@
     height: 300px;
 }
 
+.project-container {
+    background: yellow;
+}
+
 .text-left {
     text-align: left;
     word-wrap: break-word;
