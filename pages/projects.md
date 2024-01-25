@@ -19,7 +19,9 @@ permalink           : "/projects/"
 <div class="project-container">
    <div class="image-container">
       <img src="{{ site.url }}{{ site.baseurl }}/images/portfolio/acostauribe-2022.jpg" alt="Main Image" class="main-image">
-      <div alt="Hover Image" class="hover-shape" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/projects/popup_content.html')"></div>
+      <div alt="Hover Image" class="hover-shape" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/projects/popup_content.html')">
+         <i class="icon-circle-with-plus"></i>
+      </div>
    </div>
    <div class="project-title">
       <h3>Neurodegeneration in Colombia</h3>
