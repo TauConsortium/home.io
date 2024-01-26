@@ -1,10 +1,10 @@
 /* Style for the container */
 .image-container {
-    position: relative;
+    position: absolute;
     align-items: center;
     text-align: center;
-    display: inline-flex;
-    width: 80%;
+    display: inline-block;
+    width: 99%;
 }
 
 /* Style for the main image */
@@ -91,7 +91,7 @@
 }
 
 .img-popup {
-    width: 99%;
+    width: 100%;
     height: auto;
 }
 
