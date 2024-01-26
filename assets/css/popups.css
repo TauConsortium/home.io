@@ -5,6 +5,7 @@
     text-align: center;
     display: inline-block;
     width: 100%;
+    height: 328px;
 }
 
 /* Style for the main image */
@@ -90,6 +91,11 @@
     color: rgb(132, 132, 132);
 }
 
+.project-img {
+    position: relative;
+    align-items: center;
+    top: 50%;
+}
 .img-popup {
     width: 100%;
     height: auto;
