@@ -7,6 +7,7 @@ teaser              : "This site contains every Tau Consortium bioinformatic pro
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/projects/"
+background-color: "#f8f9fa"
 ---
 <!-- head is made -->
 <head>

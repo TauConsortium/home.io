@@ -10,7 +10,7 @@
 
 /* Style for the main image */
 .main-image {
-    width: 300px; /* Adjust the width as needed */
+    width: 100%; /* Adjust the width as needed */
     height: auto;
 }
 
