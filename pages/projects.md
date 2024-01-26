@@ -19,7 +19,7 @@ background-color: "#f8f9fa"
 
 <div class="project-container">
    <div class="image-container">
-      <img class="project-img" src="{{ site.url }}{{ site.baseurl }}/images/portfolio/acostauribe-2022.jpg" alt="Main Image" class="main-image">
+      <img class="main-image" src="{{ site.url }}{{ site.baseurl }}/images/portfolio/acostauribe-2022.jpg" alt="Main Image">
       <div alt="Hover Image" class="hover-shape" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/projects/popup_content.html')">
          <i class="icon-circle-with-plus"></i>
       </div>

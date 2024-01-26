@@ -10,8 +10,11 @@
 
 /* Style for the main image */
 .main-image {
-    width: 100%; /* Adjust the width as needed */
+    width: 300px; /* Adjust the width as needed */
     height: auto;
+    position: relative;
+    align-items: center;
+    top: 50%;
 }
 
 /* Style for the hover image */
@@ -91,11 +94,6 @@
     color: rgb(132, 132, 132);
 }
 
-.project-img {
-    position: relative;
-    align-items: center;
-    top: 50%;
-}
 .img-popup {
     width: 100%;
     height: auto;
