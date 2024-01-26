@@ -4,7 +4,6 @@
     align-items: center;
     text-align: center;
     display: inline-block;
-    background: yellow;
     width: 100%;
 }
 
@@ -104,11 +103,11 @@
 .project-container {
     width: 33.33%;
     height: auto;
+    background: yellow;
     align-items: center;
 }
 
 .project-title {
-    background: yellow;
     text-align: center;
 }
 
