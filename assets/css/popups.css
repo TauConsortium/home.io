@@ -11,10 +11,10 @@
 /* Style for the main image */
 .main-image {
     width: auto; /* Adjust the width as needed */
-    height: 95vh;
+    height: 95%;
     position: relative;
     align-items: center;
-    top: 2.5vh;
+    top: 2.5%;
 }
 
 /* Style for the hover image */
