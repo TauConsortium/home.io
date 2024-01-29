@@ -17,15 +17,19 @@ header:
         <img class="team-img" src="{{ site.urlimg }}team/Jennifer.jpg" alt="Jennifer S. Yokoyama, PhD.">
     </div>
     <h3>Jennifer S. Yokoyama, PhD.</h3>
-    <h4 class="text-author">Co-Principal Investigator</h4>
-    <div class="links-2">
-        <a href="https://twitter.com/yokoyamalabucsf/">
-            <i class="icon-twitter"></i>
-        </a>
-        <a href="https://yokoyamalab.ucsf.edu">
-            <i class="icon-globe"></i>
-        </a>
-    </div>
+    <p class="text-author">Co-Principal Investigator</p>
+    <ul class="links-2">
+        <li class="list-inline-item">
+            <a href="https://twitter.com/yokoyamalabucsf/">
+                <i class="icon-twitter"></i>
+            </a>
+        </li>
+        <li class="list-inline-item">
+            <a href="https://yokoyamalab.ucsf.edu">
+                <i class="icon-globe"></i>
+            </a>
+        </li>
+    </ul>
 </div>
 
 <div class="team-member">
@@ -33,15 +37,19 @@ header:
         <img class="team-img" src="{{ site.urlimg }}team/Juliana.jpg" alt="Juliana Acosta-Uribe, MD.PhD.">
     </div>
     <h3>Juliana Acosta-Uribe, MD.PhD.</h3>
-    <h4 class="text-author">Co-Principal Investigator and Data Liaison</h4>
-    <div class="links-2">
-        <a href="https://github.com/acostauribe/">
-            <i class="icon-github"></i>
-        </a>
-        <a href="https://www.linkedin.com/in/acosta-uribe/">
-            <i class="icon-linkedin"></i>
-        </a>
-    </div>
+    <p class="text-author">Co-Principal Investigator and Data Liaison</p>
+    <ul class="links-2">
+        <li class="list-inline-item">
+            <a href="https://github.com/acostauribe/">
+                <i class="icon-github"></i>
+            </a>
+        </li>
+        <li class="list-inline-item">
+            <a href="https://www.linkedin.com/in/acosta-uribe/">
+                <i class="icon-linkedin"></i>
+            </a>
+        </li>
+    </ul>
 </div>
 
 <div class="team-member">
@@ -49,15 +57,19 @@ header:
         <img class="team-img" alt="Tetsuto Katsura, BA.">
     </div>
     <h3>Tetsuto Katsura, </h3>
-    <h4 class="text-author">Bioinformatician</h4>
-    <div class="links-2">
-        <a href="https://github.com/tetsuto-k/">
-            <i class="icon-github"></i>
-        </a>
-        <a href="https://www.linkedin.com/in/tetsuto-katsura-247059232/">
-            <i class="icon-linkedin"></i>
-        </a>
-    </div>
+    <p class="text-author">Bioinformatician</p>
+    <ul class="links-2">
+        <li class="list-inline-item">
+            <a href="https://github.com/tetsuto-k/">
+                <i class="icon-github"></i>
+            </a>
+        </li>
+        <li class="list-inline-item">
+            <a href="https://www.linkedin.com/in/tetsuto-katsura-247059232/">
+                <i class="icon-linkedin"></i>
+            </a>
+        </li>
+    </ul>
 </div>
 
 <!---

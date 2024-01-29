@@ -101,6 +101,7 @@
 .text-author {
     font-style: italic;
     color: rgb(132, 132, 132);
+    font-size: 18px;
 }
 
 .img-popup {
