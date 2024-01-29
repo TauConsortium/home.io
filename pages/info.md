@@ -60,7 +60,7 @@ header:
     </div>
 </div>
 
-
+<!---
 ## Features
 
 * [Responsive Gallery][1], [Videos][2], [Grid][3], [Typography][4],...
@@ -80,3 +80,4 @@ header:
  [3]: {{ site.url }}/design/grid/
  [4]: {{ site.url }}/design/typography/
  [5]: {{ site.url }}/design/mediaelement_js/
+--->
