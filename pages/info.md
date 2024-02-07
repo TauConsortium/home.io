@@ -56,20 +56,20 @@ header:
     <div class="circle-container">
         <img class="team-img" alt="Tetsuto Katsura, BA.">
     </div>
-    <h3>Tetsuto Katsura, </h3>
+    <h3>Tetsuto Katsura</h3>
     <p class="text-author">Bioinformatician</p>
-    <ul class="links-2">
-        <li class="list-inline-item">
+    <div class="links-2">
+        <div class="list-inline-item">
             <a href="https://github.com/tetsuto-k/">
                 <i class="icon-github"></i>
             </a>
-        </li>
-        <li class="list-inline-item">
+        </div>
+        <div class="list-inline-item">
             <a href="https://www.linkedin.com/in/tetsuto-katsura-247059232/">
                 <i class="icon-linkedin"></i>
             </a>
-        </li>
-    </ul>
+        </div>
+    </div>
 </div>
 
 <!---
