@@ -18,17 +18,13 @@ header:
     </div>
     <h3>Jennifer S. Yokoyama, PhD.</h3>
     <p class="text-author">Co-Principal Investigator</p>
-    <div class="links-2">
-        <div class="list-inline-item">
-            <a href="https://twitter.com/yokoyamalabucsf/">
-                <i class="icon-twitter"></i>
-            </a>
-        </div>
-        <div class="list-inline-item">
-            <a href="https://yokoyamalab.ucsf.edu">
-                <i class="icon-globe"></i>
-            </a>
-        </div>
+    <div class="links">
+        <a href="https://twitter.com/yokoyamalabucsf/">
+            <i class="icon-twitter"></i>
+        </a>
+        <a href="https://yokoyamalab.ucsf.edu">
+            <i class="icon-globe"></i>
+        </a>
     </div>
 </div>
 
@@ -38,17 +34,13 @@ header:
     </div>
     <h3>Juliana Acosta-Uribe, MD.PhD.</h3>
     <p class="text-author">Co-Principal Investigator and Data Liaison</p>
-    <div class="links-2">
-        <div class="list-inline-item">
-            <a href="https://github.com/acostauribe/">
-                <i class="icon-github"></i>
-            </a>
-        </div>
-        <div class="list-inline-item">
-            <a href="https://www.linkedin.com/in/acosta-uribe/">
-                <i class="icon-linkedin"></i>
-            </a>
-        </div>
+    <div class="links">
+        <a href="https://github.com/acostauribe/">
+            <i class="icon-github"></i>
+        </a>
+        <a href="https://www.linkedin.com/in/acosta-uribe/">
+            <i class="icon-linkedin"></i>
+        </a>
     </div>
 </div>
 
@@ -58,17 +50,13 @@ header:
     </div>
     <h3>Tetsuto Katsura</h3>
     <p class="text-author">Bioinformatician</p>
-    <div class="links-2">
-        <div class="list-inline-item">
-            <a href="https://github.com/tetsuto-k/">
-                <i class="icon-github"></i>
-            </a>
-        </div>
-        <div class="list-inline-item">
-            <a href="https://www.linkedin.com/in/tetsuto-katsura-247059232/">
-                <i class="icon-linkedin"></i>
-            </a>
-        </div>
+    <div class="links">
+        <a href="https://github.com/tetsuto-k/">
+            <i class="icon-github"></i>
+        </a>
+        <a href="https://www.linkedin.com/in/tetsuto-katsura-247059232/">
+            <i class="icon-linkedin"></i>
+        </a>
     </div>
 </div>
 
