@@ -11,6 +11,7 @@ This is a beta website where it was used to keep the used tabs from non-used one
 Report in Contact if this still exists at the time of release.
 
 This is all the icons that can be used:
+<div class="iconfont-48">
 archive
 <i class="icon-archive"> </i>
 
@@ -175,3 +176,4 @@ xing
 
 youtube
 <i class="icon-youtube"> </i>
+</div>
