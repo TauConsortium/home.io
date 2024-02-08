@@ -9,7 +9,9 @@ header:
 permalink           : "/tutorials/"
 ---
 
-[<h2>Quality control pipeline for genomic data</h2>][1]
+<h2>Quality control pipeline for genomic data</h2>
+
+Click [here][1] to jump to the pipeline
 <h2 class="font-size-h3">Developed by Juliana Acosta-Uribe for the ReD-Lat Consortium 2023</h2>
 
 The [redlat_qc.rmd][2] pipeline is designed to be run as an [R markdown][3] file in [RStudio][4].
