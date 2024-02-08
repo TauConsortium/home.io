@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "our initiative"
 title: "About Us"
-teaser: "/replace"
+teaser: "As leaders in the field of Alzheimer’s disease and related dementias research, the Tau Consortium has built a novel digital research environment that aims to develop alternative strategies to close the gap between fields of statistics, computer science, and biology, accelerating discovery in tauopathy research."
 categories:
   - design
 tags:
