@@ -1,7 +1,7 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Guide on How to Run Project Code"
+title               : "How to Run Project Code"
 subheadline         : "genetic_data_QC"
 teaser              : "This links you to a github, where there is a guide to an example project for you to explain how to run project code."
 header:
