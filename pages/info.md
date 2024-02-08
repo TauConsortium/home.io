@@ -60,6 +60,22 @@ header:
     </div>
 </div>
 
+<div class="team-member">
+    <div class="circle-container">
+        <img class="team-img" alt="Sarah Eger">
+    </div>
+    <h3>Sarah Eger</h3>
+    <p class="text-author">Graduate Student Researcher</p>
+    <div class="links">
+        <a href="https://github.com/">
+            <i class="icon-github"></i>
+        </a>
+        <a href="https://www.linkedin.com/">
+            <i class="icon-linkedin"></i>
+        </a>
+    </div>
+</div>
+
 <!---
 ## Features
 
