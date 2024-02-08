@@ -84,6 +84,11 @@
     visibility: hidden;
 }
 
+.container {
+    text-align: center;
+    align-items: center;
+}
+
 .popup.active {
     height: 92vh;
     transform: translateX(-50%) translateY(70px);
