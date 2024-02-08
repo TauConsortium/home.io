@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-title: "About"
-subheadline: "Our Teams"
+title: "Our Teams"
+subheadline: "About"
 teaser: "Our amazing team is built by a transdisciplinary group of scientists based at the University of California, San Francisco and University of California, Santa Barbara."
 permalink: "/intro/"
 header:
