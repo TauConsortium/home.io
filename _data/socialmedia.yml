@@ -1,22 +1,21 @@
 - name: GitHub
   url: http://github.com/acostauribe
   class: icon-github
-  title: Code und mehr...
-
+  title: "github.com/acostauribe"
 - name: LinkedIn
   url: https://www.linkedin.com/in/acosta-uribe/
   class: icon-linkedin
   title: "linkedin.com/in/acosta-uribe/"
 
-- name: Twitter
-  url: http://twitter.com/phlow
-  class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+# - name: Twitter
+#   url: http://twitter.com/phlow
+#   class: icon-twitter
+#   title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/phlow/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
