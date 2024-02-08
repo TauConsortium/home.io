@@ -29,10 +29,6 @@
 .links-2 {
   font-size: 24px;
   display: inline-block;
-  width: 100%;
-}
-
-.links-2 .list-inline-item {
   width: 50%;
 }
 
