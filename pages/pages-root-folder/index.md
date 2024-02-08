@@ -9,19 +9,19 @@ header:
   image_fullwidth: home-img.jpg
 widget1:
   title: "Dataset management"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: 'http://tauconsortium.github.io/home.io/projects/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Placeholder for description about Dataset Management'
 widget2:
   title: "Virtual Machine Workbench"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  url: 'http://tauconsortium.github.io/feeling-responsive/intro/'
+  text: 'Placeholder text'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Code curation"
-  url: 'https://github.com/tetsuto-k/feelresponsive.io'
+  url: 'https://github.com/tauconsortium/'
   image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  text: 'Placeholder text'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: 
+  text: Inform me about new updates and features (Currently down)›
   style: alert
 permalink: /index.html
 #
