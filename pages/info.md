@@ -19,10 +19,10 @@ header:
     <h3>Jennifer S. Yokoyama, PhD.</h3>
     <p class="text-author">Co-Principal Investigator</p>
     <div class="links">
-        <a href="https://twitter.com/yokoyamalabucsf/">
+        <a href="https://twitter.com/yokoyamalabucsf/", alt="Twitter (X)">
             <i class="icon-twitter"></i>
         </a>
-        <a href="https://yokoyamalab.ucsf.edu">
+        <a href="https://yokoyamalab.ucsf.edu", alt="Website">
             <i class="icon-globe"></i>
         </a>
     </div>
@@ -35,10 +35,10 @@ header:
     <h3>Juliana Acosta-Uribe, MD.PhD.</h3>
     <p class="text-author">Co-Principal Investigator and Data Liaison</p>
     <div class="links">
-        <a href="https://github.com/acostauribe/">
+        <a href="https://github.com/acostauribe/", alt="GitHub">
             <i class="icon-github"></i>
         </a>
-        <a href="https://www.linkedin.com/in/acosta-uribe/">
+        <a href="https://www.linkedin.com/in/acosta-uribe/", alt="Linkedin">
             <i class="icon-linkedin"></i>
         </a>
     </div>
@@ -51,10 +51,10 @@ header:
     <h3>Tetsuto Katsura</h3>
     <p class="text-author">Bioinformatician</p>
     <div class="links">
-        <a href="https://github.com/tetsuto-k/">
+        <a href="https://github.com/tetsuto-k/", alt="GitHub">
             <i class="icon-github"></i>
         </a>
-        <a href="https://www.linkedin.com/in/tetsuto-katsura-247059232/">
+        <a href="https://www.linkedin.com/in/tetsuto-katsura-247059232/", alt="Linkedin">
             <i class="icon-linkedin"></i>
         </a>
     </div>
@@ -67,10 +67,10 @@ header:
     <h3>Sarah Eger</h3>
     <p class="text-author">Graduate Student Researcher</p>
     <div class="links">
-        <a href="https://github.com/">
+        <a href="https://github.com/", alt="Placeholder">
             <i class="icon-github"></i>
         </a>
-        <a href="https://www.linkedin.com/">
+        <a href="https://www.linkedin.com/", alt="Placeholder">
             <i class="icon-linkedin"></i>
         </a>
     </div>
