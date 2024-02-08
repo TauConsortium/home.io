@@ -12,166 +12,166 @@ Report in Contact if this still exists at the time of release.
 
 This is all the icons that can be used:
 archive
-<i class=".icon-archive"> </i>
+<i class="icon-archive"> </i>
 
 browser
-<i class=".icon-browser"> </i>
+<i class="icon-browser"> </i>
 
 calendar
-<i class=".icon-calendar"> </i>
+<i class="icon-calendar"> </i>
 
 camera
-<i class=".icon-camera"> </i>
+<i class="icon-camera"> </i>
 
 chat
-<i class=".icon-chat"> </i>
+<i class="icon-chat"> </i>
 
 check
-<i class=".icon-check"> </i>
+<i class="icon-check"> </i>
 
 chevron-down
-<i class=".icon-chevron-down"> </i>
+<i class="icon-chevron-down"> </i>
 
 chevron-left
-<i class=".icon-chevron-left"> </i>
+<i class="icon-chevron-left"> </i>
 
 chevron-right
-<i class=".icon-chevron-right"> </i>
+<i class="icon-chevron-right"> </i>
 
 chevron-up
-<i class=".icon-chevron-up"> </i>
+<i class="icon-chevron-up"> </i>
 
 circle-with-cross
-<i class=".icon-circle-with-cross"> </i>
+<i class="icon-circle-with-cross"> </i>
 
 circle-with-minus
-<i class=".icon-circle-with-minus"> </i>
+<i class="icon-circle-with-minus"> </i>
 
 circle-with-plus
-<i class=".icon-circle-with-plus"> </i>
+<i class="icon-circle-with-plus"> </i>
 
 cloud
-<i class=".icon-cloud"> </i>
+<i class="icon-cloud"> </i>
 
 code
-<i class=".icon-code"> </i>
+<i class="icon-code"> </i>
 
 cog
-<i class=".icon-cog"> </i>
+<i class="icon-cog"> </i>
 
 dropbox
-<i class=".icon-dropbox"> </i>
+<i class="icon-dropbox"> </i>
 
 edit
-<i class=".icon-edit"> </i>
+<i class="icon-edit"> </i>
 
 export
-<i class=".icon-export"> </i>
+<i class="icon-export"> </i>
 
 eye
-<i class=".icon-eye"> </i>
+<i class="icon-eye"> </i>
 
 facebook
-<i class=".icon-facebook"> </i>
+<i class="icon-facebook"> </i>
 
 feather
-<i class=".icon-feather"> </i>
+<i class="icon-feather"> </i>
 
 github
-<i class=".icon-github"> </i>
+<i class="icon-github"> </i>
 
 globe
-<i class=".icon-globe"> </i>
+<i class="icon-globe"> </i>
 
 googleplus
-<i class=".icon-googleplus"> </i>
+<i class="icon-googleplus"> </i>
 
 heart
-<i class=".icon-heart"> </i>
+<i class="icon-heart"> </i>
 
 heart-outlined
-<i class=".icon-heart-outlined"> </i>
+<i class="icon-heart-outlined"> </i>
 
 home
-<i class=".icon-home"> </i>
+<i class="icon-home"> </i>
 
 instagram
-<i class=".icon-instagram"> </i>
+<i class="icon-instagram"> </i>
 
 lab-flask
-<i class=".icon-lab-flask"> </i>
+<i class="icon-lab-flask"> </i>
 
 leaf
-<i class=".icon-leaf"> </i>
+<i class="icon-leaf"> </i>
 
 linkedin
-<i class=".icon-linkedin"> </i>
+<i class="icon-linkedin"> </i>
 
 mail
-<i class=".icon-mail"> </i>
+<i class="icon-mail"> </i>
 
 message
-<i class=".icon-message"> </i>
+<i class="icon-message"> </i>
 
 mic
-<i class=".icon-mic"> </i>
+<i class="icon-mic"> </i>
 
 network
-<i class=".icon-network"> </i>
+<i class="icon-network"> </i>
 
 paper-plane
-<i class=".icon-paper-plane"> </i>
+<i class="icon-paper-plane"> </i>
 
 pinterest
-<i class=".icon-pinterest"> </i>
+<i class="icon-pinterest"> </i>
 
 price-tag
-<i class=".icon-price-tag"> </i>
+<i class="icon-price-tag"> </i>
 
 rocket
-<i class=".icon-rocket"> </i>
+<i class="icon-rocket"> </i>
 
 rss
-<i class=".icon-rss"> </i>
+<i class="icon-rss"> </i>
 
 soundcloud
-<i class=".icon-soundcloud"> </i>
+<i class="icon-soundcloud"> </i>
 
 star
-<i class=".icon-star"> </i>
+<i class="icon-star"> </i>
 
 star-outlined
-<i class=".icon-star-outlined"> </i>
+<i class="icon-star-outlined"> </i>
 
 thumbs-down
-<i class=".icon-thumbs-down"> </i>
+<i class="icon-thumbs-down"> </i>
 
 icon-thumbs-up
-<i class=".icon-thumbs-up"> </i>
+<i class="icon-thumbs-up"> </i>
 
 tree
-<i class=".icon-tree"> </i>
+<i class="icon-tree"> </i>
 
 tumblr
-<i class=".icon-tumblr"> </i>
+<i class="icon-tumblr"> </i>
 
 twitter
-<i class=".icon-twitter"> </i>
+<i class="icon-twitter"> </i>
 
 upload-to-cloud
-<i class=".icon-upload-to-cloud"> </i>
+<i class="icon-upload-to-cloud"> </i>
 
 video
-<i class=".icon-video"> </i>
+<i class="icon-video"> </i>
 
 vimeo
-<i class=".icon-vimeo"> </i>
+<i class="icon-vimeo"> </i>
 
 warning
-<i class=".icon-warning"> </i>
+<i class="icon-warning"> </i>
 
 xing
-<i class=".icon-xing"> </i>
+<i class="icon-xing"> </i>
 
 youtube
-<i class=".icon-youtube"> </i>
+<i class="icon-youtube"> </i>
