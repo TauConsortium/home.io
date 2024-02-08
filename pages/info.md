@@ -8,8 +8,8 @@ header:
     image_fullwidth: "/header_drop.jpg"
 ---
 <head>
-    <divnk rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/popups.css">
-    <divnk rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/customimg.css">
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/popups.css">
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/customimg.css">
 </head>
 
 <div class="team-member">
@@ -18,18 +18,18 @@ header:
     </div>
     <h3>Jennifer S. Yokoyama, PhD.</h3>
     <p class="text-author">Co-Principal Investigator</p>
-    <div class="links-2">
-        <div class="list-inline-item">
+    <ul class="links-2">
+        <li class="list-inline-item">
             <a href="https://twitter.com/yokoyamalabucsf/">
                 <i class="icon-twitter"></i>
             </a>
-        </div>
-        <div class="list-inline-item">
+        </li>
+        <li class="list-inline-item">
             <a href="https://yokoyamalab.ucsf.edu">
                 <i class="icon-globe"></i>
             </a>
-        </div>
-    </div>
+        </li>
+    </ul>
 </div>
 
 <div class="team-member">
@@ -38,18 +38,18 @@ header:
     </div>
     <h3>Juliana Acosta-Uribe, MD.PhD.</h3>
     <p class="text-author">Co-Principal Investigator and Data Liaison</p>
-    <div class="links-2">
-        <div class="list-inline-item">
+    <ul class="links-2">
+        <li class="list-inline-item">
             <a href="https://github.com/acostauribe/">
                 <i class="icon-github"></i>
             </a>
-        </div>
-        <div class="list-inline-item">
+        </li>
+        <li class="list-inline-item">
             <a href="https://www.linkedin.com/in/acosta-uribe/">
                 <i class="icon-linkedin"></i>
             </a>
-        </div>
-    </div>
+        </li>
+    </ul>
 </div>
 
 <div class="team-member">
