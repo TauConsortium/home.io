@@ -1,45 +1,33 @@
-<!-- Template for projects -->
 <head>
-    <link rel='stylesheet' type='text/css' href='../assets/css/styles_feeling_responsive.css'>
-    <link rel='stylesheet' type='text/css' href='../assets/css/popups.css'>
+    <link rel="stylesheet" type="text/css" href="../assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="../assets/css/popups.css">
 </head>
 <body>
-    <div class='container'>
+    <div class="container">
         <!-- Project Details Go Here -->
-        <!-- Insert in the order of Title, Authors, and Image link-->
-        <h2 class='text-uppercase'></h2>
-        <p class='text-authors'></p>
-        <img class='img-popup' src='./' alt='Take a look'>
-        <p></p><h1 id='abstract'>Abstract</h1>
-    </div>
+        <!-- Create a new html file in projects folder, and copy all of this template to the new file. Locations needed to be replaced with be commentated -->
+        <h2 class="text-uppercase">Insert Title</h2> <!-- Replace Insert Title -->
+        <p class="text-authors">Insert Authors</p> <!-- Replace Insert Authors -->
+        <img class="img-popup" src="../images/Insert Image File Name" alt="Insert Title"> <!-- Replace Insert Image File Name and Insert Title -->
+        <p></p><h1 id="abstract">Abstract</h1> 
 
-    <!-- Insert Abstract Here -->
-    <p class='abstract'>Insert Abstract Here</p>
+        <p class="abstract">Insert Abstract Here</p> <!-- Replace Insert Abstract Here -->
 
-    <!-- Insert Links for manuscript, pipeline, and access -->
-    <h1 id='available-data'>Available data:</h1>
-    <h3 id='manuscript'><a href='https://'>Manuscript</a></h3>
-    <h3 id='computational-pipeline'><a href='https://'>Computational pipeline</a></h3>
-    <h3 id='apply-for-dataset-access'><a href='https://'>Apply for dataset access</a></h3>
+        <h1 id="available-data">Available data:</h1>
+        <h3 id="manuscript"><a href="Insert Manuscript">Manuscript</a></h3> <!-- Replace Insert Manuscript -->
+        <h3 id="computational-pipeline"><a href="Insert Pipeline Link">Computational pipeline</a></h3> <!--Replace Insert Pipeline Link-->
+        <h3 id="apply-for-dataset-access"><a href="Insert Link">Apply for dataset access</a></h3> <!-- Replace Insert Link -->
 
-    <!-- Insert Date, PI, and Category -->
-    <ul class='list-inline'>
-        <br></br>
-        <p>Date: Insert Date</p>
-        <p>PI: Insert PI</p>
-        <p>Category: Insert Category</p>
-    </ul>
+        <ul class="list-inline">
+            <br></br>
+            <p>Date: Insert Date</p> <!-- Replace Insert Date -->
+            <p>PI: Insert PI</p> <!-- Replace Insert PI -->
+            <p>Category: Insert Category</p> <!-- Replace Insert Category-->
+        </ul>
 
-    <!-- This generates a button to close the popup, do not touch-->
-        <button class='btn btn-primary' data-dismiss='modal' type='button', onclick='hidePopup()''>
+        <p></p>
+        <button class="btn btn-primary" data-dismiss="modal" type="button", onclick="hidePopup()">
             <i class="icon-circle-with-cross">  </i>Close Project
         </button>
+    </div>
 </body>
-
-
-<!-- The following template is to paste into /pages/projects.md -->
-<div class="image-container">
-    <!-- Insert image link after /images/ and insert the html page the project detail is located after /projects/-->
-    <img src="{{ site.url }}{{ site.baseurl }}/images/InsertImage" alt="Main Image" class="main-image">
-    <div alt="Hover Image" class="hover-shape" onclick="showPopup('{{ site.url }}{{ site.baseurl }}/projects/InsertHTML')"></div>
-</div>
