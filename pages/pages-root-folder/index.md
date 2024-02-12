@@ -14,7 +14,7 @@ widget1:
   text: 'Placeholder for description about Dataset Management'
 widget2:
   title: "Virtual Machine Workbench"
-  url: 'http://tauconsortium.github.io/feeling-responsive/intro/'
+  url: 'http://tauconsortium.github.io/home.io/intro/'
   text: 'Placeholder text'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
