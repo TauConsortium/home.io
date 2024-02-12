@@ -1,6 +1,6 @@
 .circle-container {
-  width: 250px; /* Adjust the size as needed */
-  height: 250px;
+  width: 180px; /* Adjust the size as needed */
+  height: 180px;
   left: 50%;
   border-radius: 50%;
   overflow: hidden;
@@ -10,7 +10,7 @@
 }
   
 .team-member {
-  width: 33.33%;
+  width: 25%;
   height: 450px;
   display: inline-block;
   text-align: center;
@@ -27,7 +27,7 @@
 }
 
 .links {
-  font-size: 36px;
+  font-size: 30px;
   display: inline-block;
   width: 100%;
 }
