@@ -13,7 +13,7 @@ header:
 </head>
 
 <div class="team-member">
-    <div class="circle-container">
+    <div class="circle-container-team">
         <img class="team-img" src="{{ site.urlimg }}team/Jennifer.jpg" alt="Jennifer S. Yokoyama, PhD.">
     </div>
     <h3>Jennifer S. Yokoyama, PhD.</h3>
