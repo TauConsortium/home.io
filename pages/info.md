@@ -29,7 +29,7 @@ header:
 </div>
 
 <div class="team-member">
-    <div class="circle-container">
+    <div class="circle-container-team">
         <img class="team-img" src="{{ site.urlimg }}team/Juliana.jpg" alt="Juliana Acosta-Uribe, MD.PhD.">
     </div>
     <h3>Juliana Acosta-Uribe, MD.PhD.</h3>
@@ -45,7 +45,7 @@ header:
 </div>
 
 <div class="team-member">
-    <div class="circle-container">
+    <div class="circle-container-team">
         <img class="team-img" alt="Tetsuto Katsura, BA.">
     </div>
     <h3>Tetsuto Katsura</h3>
@@ -61,7 +61,7 @@ header:
 </div>
 
 <div class="team-member">
-    <div class="circle-container">
+    <div class="circle-container-team">
         <img class="team-img" alt="Sarah Eger">
     </div>
     <h3>Sarah Eger</h3>

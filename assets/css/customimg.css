@@ -1,4 +1,15 @@
-.circle-container {
+.circle-container-team {
+  width: 180px; /* Adjust the size as needed */
+  height: 180px;
+  left: 50%;
+  border-radius: 50%;
+  overflow: hidden;
+  display: inline-block;
+  border: 5px solid rgb(21, 142, 194);
+  vertical-align: top;
+}
+
+.circle-container-tl {
   width: 180px; /* Adjust the size as needed */
   height: 180px;
   left: 50%;
