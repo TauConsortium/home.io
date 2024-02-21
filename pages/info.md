@@ -46,7 +46,7 @@ header:
 
 <div class="team-member">
     <div class="circle-container-team">
-        <img class="team-img" alt="Tetsuto Katsura, BA.">
+        <img class="team-img" src="{{ site.urlimg }}team/Tetsuto.jpg" alt="Tetsuto Katsura, BA.">
     </div>
     <h3>Tetsuto Katsura</h3>
     <p class="text-author">Bioinformatician</p>
@@ -62,15 +62,12 @@ header:
 
 <div class="team-member">
     <div class="circle-container-team">
-        <img class="team-img" alt="Sarah Eger">
+        <img class="team-img" src="{{ site.urlimg }}team/Sarah.jpg" alt="Sarah Eger">
     </div>
     <h3>Sarah Eger</h3>
     <p class="text-author">Graduate Student Researcher</p>
     <div class="links">
-        <a href="https://github.com/" title="Placeholder">
-            <i class="icon-github"></i>
-        </a>
-        <a href="https://www.linkedin.com/" title="Placeholder">
+        <a href="https://www.linkedin.com/in/sarah-eger/" title="Linkedin">
             <i class="icon-linkedin"></i>
         </a>
     </div>
