@@ -5,7 +5,7 @@ subheadline: "About"
 teaser: "Our amazing team is built by a transdisciplinary group of scientists based at the University of California, San Francisco and University of California, Santa Barbara."
 permalink: "/intro/"
 header:
-    image_fullwidth: "/header_drop.jpg"
+    image_fullwidth: "/temporary.jpg"
 ---
 <head>
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/popups.css">

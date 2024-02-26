@@ -5,7 +5,7 @@ title               : "Timeline"
 subheadline         : "Our plan for the Future"
 teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+   image_fullwidth  : "temporary.jpg"
 permalink           : "/timeline/"
 ---
 

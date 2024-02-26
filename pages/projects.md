@@ -5,7 +5,7 @@ title               : "Projects"
 subheadline         : "Tau Consortium bioinformatic projects"
 teaser              : "This site contains every Tau Consortium bioinformatic projects"
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+   image_fullwidth  : "temporary.jpg"
 permalink           : "/projects/"
 background-color: "#f8f9fa"
 ---

@@ -4,7 +4,7 @@ layout: page
 title: "Blank"
 sitemap: false
 header:
-    image_fullwidth: "/header_drop.jpg"
+    image_fullwidth: "/temporary.jpg"
 ---
 
 This is a beta website where it was used to keep the used tabs from non-used ones.
