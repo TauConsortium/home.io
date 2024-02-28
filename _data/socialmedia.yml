@@ -1,16 +1,17 @@
 - name: GitHub
-  url: http://github.com/acostauribe
+  url: https://github.com/TauConsortium
   class: icon-github
-  title: "github.com/acostauribe"
+  title: "github.com/TauConsortium"
+  
 - name: LinkedIn
-  url: https://www.linkedin.com/in/acosta-uribe/
+  url: https://www.linkedin.com/company/rainwater-charitable-foundation/
   class: icon-linkedin
-  title: "linkedin.com/in/acosta-uribe/"
-
-# - name: Twitter
-#   url: http://twitter.com/phlow
-#   class: icon-twitter
-#   title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "linkedin.com/company/rainwater-charitable-foundation/"
+  
+- name: Twitter
+  url: https://twitter.com/RCFNeuro
+  class: icon-twitter
+  title: "twitter.com/RCFNeuro"
 
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/phlow/
