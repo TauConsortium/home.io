@@ -8,16 +8,16 @@
 #                                                 /____/
 #
 # Title of your website, breaks if you change title, slogan, or description. No idea why
-title: 'Feeling Responsive'
+title: 'Tau Bioinformatics'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Flexible Theme for Jekyll'
+slogan: 'Tau Consortium Bioinformatic Hub"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
+description: 'Facilitating the use of large ‘omics datasets for the discovery and development of treatments for tauopathy and related disorders'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created by <a href="https://github.com/tetsuto-k">Tetsuto Katsura</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> created by <a href="http://phlow.de/">Phlow</a>.</p>'
+credits: '<p>Created by <a href="https://github.com/tetsuto-k">Tetsuto Katsura</a> and <a href="https://github.com/acostauribe">Juliana Acosta-Uribe</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> by <a href="http://phlow.de/">Phlow</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
