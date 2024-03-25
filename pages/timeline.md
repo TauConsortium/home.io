@@ -4,8 +4,7 @@ show_meta           : false
 title               : "Timeline"
 subheadline         : "Our plan for the Future"
 teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
-header:
-   image_fullwidth  : "temporary.jpg"
+header: no
 permalink           : "/timeline/"
 ---
 
